@@ -1,2 +1,2 @@
 # atom
-Desing for new learning for a new town
+Design for new learning for a new town
